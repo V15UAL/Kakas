@@ -29,3 +29,5 @@ Repository pada dasarnya merupakan gudang tempat menyimpan semua berkas yang kit
 	repository commit lagi seperti langkah sebelumnya, kemudian push ke dalam repository github 
 	saya lagi bekerja.. ok
 taufik sudah di update sekrang
+
+arham afanddi yng mengupdate
